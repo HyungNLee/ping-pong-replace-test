@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/NumberReplace.Solution/NumberReplace/bin/Debug/netcoreapp1.1/NumberReplace.deps.json
+/Users/Guest/Desktop/NumberReplace.Solution/NumberReplace/obj/Debug/netcoreapp1.1/NumberReplace.AssemblyInfo.cs
+/Users/Guest/Desktop/NumberReplace.Solution/NumberReplace/bin/Debug/netcoreapp1.1/NumberReplace.dll
+/Users/Guest/Desktop/NumberReplace.Solution/NumberReplace/bin/Debug/netcoreapp1.1/NumberReplace.pdb
+/Users/Guest/Desktop/NumberReplace.Solution/NumberReplace/obj/Debug/netcoreapp1.1/NumberReplace.dll
+/Users/Guest/Desktop/NumberReplace.Solution/NumberReplace/obj/Debug/netcoreapp1.1/NumberReplace.pdb
